@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+gpt4all
+duckdb
